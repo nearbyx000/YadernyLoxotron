@@ -8,5 +8,6 @@
 1 Обращатся к боту.
 2 Скачать код проекта и загрузить его локально.
 3 Использовать roboflow и нейросеть,загруженную в нем.
+ССЫЛКА НА ПРЕЗЕНТАЦИЮ:https://docs.google.com/presentation/d/1Z8YrDP4Qh2KQE-ndQznpsiw9GK0uuG-hLUTUl0Zkh3A/edit?usp=sharing
 
 
