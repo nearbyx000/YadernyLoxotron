@@ -1,1 +1,2 @@
-IDIOTЫ нам сюда описание писать к проекту
+Title of project: Распознаватель курящих по фото/видео
+Project descriprion:
