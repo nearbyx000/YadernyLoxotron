@@ -11,7 +11,7 @@ def handle_photo(message):
     save_path = 'dataset/1.jpg'
     with open(save_path, 'wb') as new_file:
         new_file.write(downloaded_file)
-    bot.reply_to(message, 'Курит')
+    bot.reply_to(message, 'обрабатываем')
 
 
 
